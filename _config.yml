@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marcio Tapia "
+title                    : "Marcio Tapia"
 title_separator          : "-"
 name                     : &name "Marcio Andre Tapia Millones"
-description              : &description ""Student Economics - Pontifical Catholic University of Perú"
+description              : &description ""Student Economics at Pontifical Catholic University of Perú"
 url                      : https://andre2021-est.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Andre2021-est/Andre2021-est.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marcio Andre Tapia Millones"
   avatar           : "profile.png"
-  bio              : "Student Economics - Pontifical Catholic University of Perú"
+  bio              : "Student Economics at Pontifical Catholic University of Perú"
   location         : "Lima,Perú"
   employer         :
 #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
