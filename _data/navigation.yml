@@ -1,9 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: /files/Chile series analysis.pdf
-    url: /files/ANÁLISIS COSTO BENEFICIO DEL PROYECTO DE LEY.pdf
-
+    url: /publications/ 
+    
  # - title: "Talks"
  # - url: /talks/    
 
@@ -20,4 +19,4 @@ main:
     url: /files/CURRICULUM VITAE-Marcio Tapia_2021.pdf
     
  # - title: "Guide"
-    url: /markdown/
+ #   url: /markdown/
