@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Chile series analysis "
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
+permalink: /publication/Chile series analysis
+excerpt: 'In this work we focus on estimating shocks in aggregate demand and aggregate supply in the series of Chilean variables such as real GDP, CPI, monetary policy interest rate, terms of trade, etc. We perform unit root hypothesis tests. Likewise, we apply the VAR and SVAR model with the mentioned variables, carrying out a short-term identification of the structural shocks by the Cholesky decomposition. We use IRF and FEVD.
+We see problems of cointegration in the series of consumption, production, nominal exchange rate and the Chilean CPI, using methods such as Johansen and Juselius. Finally, we analyze the volatility of the series using ARCH, GARCH, EGARCH and CGARH models, observing which is the best.
+For this, my colleagues and I apply E-views and Matlab.'
+date: 2020-07-17
+paperurl: /files/Chile series analysis.pdf
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](/files/Chile series analysis.pdf)
+
