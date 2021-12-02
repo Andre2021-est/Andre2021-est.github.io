@@ -7,6 +7,6 @@ We see problems of cointegration in the series of consumption, production, nomin
 date: 2020-07-17
 paperurl: /files/Chile series analysis.pdf
 
-
+--------
 [Download paper here](/files/Chile series analysis.pdf)
 
