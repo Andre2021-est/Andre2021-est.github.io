@@ -1,5 +1,5 @@
 ---
-title: "Chile series analysis "
+title: "Chile series analysis"
 collection: publications
 permalink: /publication/Chile series analysis
 excerpt: 'In this work we focus on estimating shocks in aggregate demand and aggregate supply in the series of Chilean variables such as real GDP, CPI, monetary policy interest rate, terms of trade, etc. We perform unit root hypothesis tests. Likewise, we apply the VAR and SVAR model with the mentioned variables, carrying out a short-term identification of the structural shocks by the Cholesky decomposition. We use IRF and FEVD.
