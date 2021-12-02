@@ -7,4 +7,4 @@ date: 2021-07-01
 paperurl: /files/ANÁLISIS COSTO BENEFICIO DEL PROYECTO DE LEY.pdf
 
 ---
-[Download paper here](/files/ANÁLISIS COSTO BENEFICIO DEL PROYECTO DE LEY.pdf)s
+[Download paper here](/files/ANÁLISIS COSTO BENEFICIO DEL PROYECTO DE LEY.pdf)
